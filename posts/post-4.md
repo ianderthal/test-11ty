@@ -25,3 +25,9 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 1. Mastery of the material takes time. IAAP does not recommend taking this exam if you have less than 1 year of experience. Ensure you have a solid grasp of the fundamentals before registering for an exam date.
 2. Flash cards facilitates my style of learning. Creating flash cards takes discipline, but the ease of throwing a set into a bag or taking them with me on my morning walk ensured is ummatched (compared to carrying around the body of knowledge). 
 3. Body of Knowledge
+4. Quizlets are virtual notecards created and shared by other users. These are a helpful supplement to combine a different perspective into your own. 
+5. Reputable Practice Exams - [Princeton course] (https://iaap.edunext.io/courses/course-v1:IAAP+CPACC+2021/about)
+
+## Study Materials to Avoid
+
+1. Practice exams from dubious sources
