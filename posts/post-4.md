@@ -31,3 +31,12 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 ## Study Materials to Avoid
 
 1. Practice exams from dubious sources 
+
+## Preparing Your Exam Space
+
+1. Remove all the stuff
+2. Download the super secret browser
+3. Biometric verification?!?
+4. A single monitor 
+5. Oh yeah, a single mouse and keyboard
+6. Two blank sheets of paper and a writing implement.
