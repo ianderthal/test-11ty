@@ -13,7 +13,7 @@ pageTitle: CPACC Exam Preparation Guide
 
 ## Study Schedule
 
-Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spent 70+ hours preparing for the exam in total. 
+Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spent 70+ hours preparing for the exam. 
 
 | Duration      | Description |
 | ----------- | ----------- |
@@ -44,3 +44,7 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 
 1. Download the super secret browser
 2. Webcam has to be positioned in a very particular way. 
+
+## Examination tips
+
+1. Use the two sheets of paper allowed. Jot down anything that could be useful when taking the exams like mnemonics, charts, or memory devices. 
