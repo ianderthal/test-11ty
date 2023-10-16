@@ -30,7 +30,7 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 
 ## Study Materials to Avoid
 
-1. Practice exams from dubious sources 
+1. Practice exams from dubious sources - there were a number of websites with free practice exams, found after searching for "CPACC practice exams". Utilize these at your own risk! Questions/answers seemed wishy/washy and even had folks in the commens arguing with the posted answers! 
 
 ## Preparing Your Exam Space
 
@@ -47,4 +47,5 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 
 ## Examination tips
 
-1. Use the two sheets of paper allowed. Jot down anything that could be useful when taking the exams like mnemonics, charts, or memory devices. 
+1. Use the two sheets of paper allowed. Jot down anything that could be useful when taking the exams like mnemonics, charts, or memory devices.
+2. Two of the answers are distractors, one of the answers may seem correct and the other is the most correct. If you're unsure of the answer, eliminate the disctractors and guess!
