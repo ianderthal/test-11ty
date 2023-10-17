@@ -37,15 +37,20 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 1. Remove post-it notes, whiteboards, and errant scraps of paper near your desk
 2. Biometric verification?!?
 3. A single monitor 
-4. Oh yeah, a single mouse and keyboard
+4. A single mouse and keyboard
 5. Two blank sheets of paper and a writing implement.
 
 ## Preparing Your Computer
 
-1. Download the super secret browser
-2. Webcam has to be positioned in a very particular way. 
+1. Download the secure browser
+2. Webcam has to be positioned to provide a profile view of your eyes and keyboard
 
 ## Examination tips
 
 1. Use the two sheets of paper allowed. Jot down anything that could be useful when taking the exams like mnemonics, charts, or memory devices.
 2. Two of the answers are distractors, one of the answers may seem correct and the other is the most correct. If you're unsure of the answer, eliminate the disctractors and guess!
+
+## Examination Results
+
+1. Expect results in 4-6 weeks
+2. Questions aren't all weighted equally
