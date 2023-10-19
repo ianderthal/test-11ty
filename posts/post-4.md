@@ -49,8 +49,9 @@ Across 8 weeks, I put in a solid 8 hours of prep time per week. in total, I spen
 
 1. Use the two sheets of paper allowed. Jot down anything that could be useful when taking the exams like mnemonics, charts, or memory devices.
 2. Two of the answers are distractors, one of the answers may seem correct and the other is the most correct. If you're unsure of the answer, eliminate the disctractors and guess!
+3. The testing platform is far from frictionless, so keep your cool and roll with whatever comes your way (connection issues, proctor interruptions, etc.)
 
 ## Examination Results
 
 1. Expect results in 4-6 weeks
-2. Questions aren't all weighted equally
+2. Questions aren't all weighted equally; you'll need to wait for your results
